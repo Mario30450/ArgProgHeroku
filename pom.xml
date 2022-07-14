@@ -79,5 +79,5 @@
             </plugin>
         </plugins>
     </build>
-
+    <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
 </project>
